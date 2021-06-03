@@ -1,0 +1,1 @@
+web: gunicorn Assignment_Pagination.wsgi
